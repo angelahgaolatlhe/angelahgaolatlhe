@@ -6,11 +6,11 @@
 
 ### 🧠 About Me
 
-- 🎓 I am currently a student at **AIMS Senegal**, diving deep into the world of mathematical sciences and its applications.
-- 🐍 I'm a **beginner in Python** and I'm enthusiastically learning the fundamentals of programming, data analysis, and scientific computing.
-- 🔭 I'm interested in how mathematics and computation can be used to solve real-world problems.
-- 🌱 My goal is to grow my skills in programming and contribute to meaningful projects.
-- 📫 How to reach me: 
+- I am currently a student at AIMS Senegal, diving deep into the world of mathematical sciences and its applications.
+- I am a beginner in Python and I'm enthusiastically learning the fundamentals of programming, data analysis, and scientific computing.
+- I am interested in how mathematics and computation can be used to solve real-world problems.
+- My goal is to grow my skills in programming and contribute to meaningful projects.
+- How to reach me: 
   <a href="mailto:gaolathie.a.kgato@aims-senegal.org">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-d14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
