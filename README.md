@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/angelah-kgato-gaolatlhe-000830259/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
-- ⚡ Fun fact: I love playing sudoku!
+- Fun fact: I love playing sudoku!
 
 ---
 
