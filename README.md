@@ -10,36 +10,31 @@
 
 ---
 
-## 🌟 Who Am I?
+## Who Am I?
 
 ```python
 class Angelah:
     name        = "Angelah Kgato Gaolatlhe"
-    location    = "Dakar, Senegal 🇸🇳 (originally from Botswana 🇧🇼)"
-    education   = "MSc Data Science & Big Data @ AIMS Senegal"
+    location    = "Mbour, Senegal 🇸🇳 (originally from Botswana 🇧🇼)"
+    education   = "MSc Big Data & Data Science @ AIMS Senegal"
     superpower  = "Turning messy data into meaningful stories"
-    currently   = "Exploring Explainable AI & LLMs 🤖"
-    fun_fact    = "I debug code AND solve Sudoku for fun 🧩"
+    currently   = "Exploring Explainable AI & LLMs "
+    fun_fact    = "I debug code AND solve Sudoku for fun "
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together 🚀")
+        print("Thanks for stopping by! Let's build something amazing together ")
 ```
 
----
+## What I'm Passionate About
 
-## 🧠 What I'm Passionate About
+- **Explainable AI & Model Interpretability** — because black boxes aren't good enough
+- **Informed Machine Learning** — blending domain knowledge with data
+- **Multimodal AI & LLMs** — the frontier of what's possible
+- **Data Analysis** — finding the story hiding in the numbers
+- **Neural Networks** — deep, deeper, deepest
 
-> *"Mathematics is the language in which the universe is written."* — and I'm here to translate it into AI.
 
-- 🔍 **Explainable AI & Model Interpretability** — because black boxes aren't good enough
-- 🧬 **Informed Machine Learning** — blending domain knowledge with data
-- 🗣️ **Multimodal AI & LLMs** — the frontier of what's possible
-- 📊 **Data Analysis** — finding the story hiding in the numbers
-- 🧮 **Neural Networks** — deep, deeper, deepest
-
----
-
-## 🛠️ My Tech Toolbox
+## My Tech Toolbox
 
 <div align="center">
 
@@ -59,45 +54,26 @@ class Angelah:
 
 **Tools**
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
----
-
-## 🚀 What I've Been Up To
-
-| 🏢 Role | 🏗️ Where | ✨ Highlights |
-|--------|---------|-------------|
-| 📈 Data Analytics Intern | Alpha Direct Insurance, Botswana | Analyzed large datasets → improved operational efficiency |
-| 🎓 MSc Student | AIMS Senegal | Deep-diving into Data Science & Big Data |
-| 📐 Academic Tutor | Dr Wada's Tutorials | Mentored IGCSE/BGCSE learners in Maths & Physics |
-| 💰 Finance & Risk Attaché | BIFM, Botswana | Bank reconciliation, KYC, risk mitigation |
-
----
 
 ## 🎯 Currently Seeking
 
 <div align="center">
 
-```
 ╔══════════════════════════════════════════════════════╗
 ║  🟢  OPEN TO WORK & COLLABORATION                    ║
 ║                                                      ║
-║  ✅  Data Science / ML roles                        ║
+║  ✅  Data Science / ML roles                         ║
 ║  ✅  Research collaborations                         ║
 ║  ✅  Open-source contributions                       ║
 ║  ✅  Freelance projects                              ║
 ║  ✅  Hackathons & competitions                       ║
 ╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
 
 ## 🎮 Beyond the Code
 
@@ -108,20 +84,6 @@ When I'm not training models or wrangling data, you'll find me...
 - 🎵 **Listening to Music** — the ultimate background process for deep focus.
 - 📚 **Reading about AI research** — because the field moves faster than I sleep.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=angelahgaolatlhe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6a11cb&icon_color=2575fc" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelahgaolatlhe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6a11cb" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=angelahgaolatlhe&theme=tokyonight&hide_border=true&background=0d1117&ring=6a11cb&fire=2575fc&currStreakLabel=ffffff" width="49%"/>
-
-</div>
-
----
 
 ## 🌍 Let's Connect!
 
@@ -131,7 +93,7 @@ When I'm not training models or wrangling data, you'll find me...
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelahgaolatlhe)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelahkgatogaolatlhe@gmail.com)
 
-*"The best way to predict the future is to model it."* 📈
+*"The best wy to be good at something is first loving it."* 
 
 </div>
 
