@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hey,%20I'm%20Angelah!%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Math%20Lover%20%7C%20Full%20Stack%20Explorer&descAlignY=58&descSize=18" width="100%"/>
+<!-- Custom banner with woman data scientist + neural network -->
+<img src="./banner.svg" width="100%"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions+%F0%9F%A7%A0;MSc+Data+Science+%40+AIMS+Senegal+%F0%9F%8C%8D;Math+nerd+%2B+ML+enthusiast+%3D+%F0%9F%9A%80;Open+to+collabs%2C+jobs+%26+fun+projects!)](https://git.io/typing-svg)
@@ -18,21 +18,22 @@ class Angelah:
     location    = "Mbour, Senegal 🇸🇳 (originally from Botswana 🇧🇼)"
     education   = "MSc Big Data & Data Science @ AIMS Senegal"
     superpower  = "Turning messy data into meaningful stories"
-    currently   = "Exploring Explainable AI & LLMs "
-    fun_fact    = "I debug code AND solve Sudoku for fun "
+    currently   = "Exploring Explainable AI & LLMs 🤖"
+    fun_fact    = "I debug code AND solve Sudoku for fun 🧩"
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together ")
+        print("Thanks for stopping by! Let's build something amazing together 🚀")
 ```
 
 ## What I'm Passionate About
 
-- **Explainable AI & Model Interpretability** — because black boxes aren't good enough
-- **Informed Machine Learning** — blending domain knowledge with data
-- **Multimodal AI & LLMs** — the frontier of what's possible
-- **Data Analysis** — finding the story hiding in the numbers
-- **Neural Networks** — deep, deeper, deepest
+- 🔍 **Explainable AI & Model Interpretability** — because black boxes aren't good enough
+- 🧬 **Informed Machine Learning** — blending domain knowledge with data
+- 🗣️ **Multimodal AI & LLMs** — the frontier of what's possible
+- 📊 **Data Analysis** — finding the story hiding in the numbers
+- 🧮 **Neural Networks** — deep, deeper, deepest
 
+---
 
 ## My Tech Toolbox
 
@@ -54,17 +55,20 @@ class Angelah:
 
 **Tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
 
+---
 
 ## 🎯 Currently Seeking
 
 <div align="center">
 
+```
 ╔══════════════════════════════════════════════════════╗
 ║  🟢  OPEN TO WORK & COLLABORATION                    ║
 ║                                                      ║
@@ -74,6 +78,11 @@ class Angelah:
 ║  ✅  Freelance projects                              ║
 ║  ✅  Hackathons & competitions                       ║
 ╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
 
 ## 🎮 Beyond the Code
 
@@ -84,6 +93,7 @@ When I'm not training models or wrangling data, you'll find me...
 - 🎵 **Listening to Music** — the ultimate background process for deep focus.
 - 📚 **Reading about AI research** — because the field moves faster than I sleep.
 
+---
 
 ## 🌍 Let's Connect!
 
@@ -93,9 +103,8 @@ When I'm not training models or wrangling data, you'll find me...
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelahgaolatlhe)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelahkgatogaolatlhe@gmail.com)
 
-*"The best wy to be good at something is first loving it."* 
+*"The best way to be good at something is first loving it."* 💜
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
 
 </div>
-
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
