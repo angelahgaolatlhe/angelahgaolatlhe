@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Custom banner with woman data scientist + neural network -->
-<img src="./banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=header" width="100%"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions+%F0%9F%A7%A0;MSc+Data+Science+%40+AIMS+Senegal+%F0%9F%8C%8D;Math+nerd+%2B+ML+enthusiast+%3D+%F0%9F%9A%80;Open+to+collabs%2C+jobs+%26+fun+projects!)](https://git.io/typing-svg)
