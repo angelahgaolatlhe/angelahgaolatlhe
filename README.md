@@ -3,14 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=header" width="100%"/>
 
 <h1 align="center" style="font-size: 3rem; font-weight: bold; margin-top: 10px;">
-  ✨ Hello there, I'm <span style="color:#6A11CB;">Angelah</span> ✨
+  ✨ Hello there, I am <span style="color:#6A11CB;">Angelah</span> ✨
 </h1>
 
-<h3 align="center" style="color: #8b949e;">
-  Data Scientist • Machine Learning Enthusiast • Problem Solver
-</h3>
-
-<!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions+%F0%9F%A7%A0;MSc+Data+Science+%40+AIMS+Senegal+%F0%9F%8C%8D;Math+nerd+%2B+ML+enthusiast+%3D+%F0%9F%9A%80;Open+to+collabs%2C+jobs+%26+fun+projects!)](https://git.io/typing-svg)
 
 </div>
