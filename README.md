@@ -20,7 +20,7 @@ class Angelah:
     fun_fact    = "I solve Sudoku for fun "
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together 🚀")
+        print("Thanks for stopping by! Let's build something amazing together")
 ```
 
 ## What I'm Passionate About
