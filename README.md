@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## Who Am I?
 
 ```python
@@ -18,8 +16,8 @@ class Angelah:
     location    = "Mbour, Senegal 🇸🇳 (originally from Botswana 🇧🇼)"
     education   = "MSc Big Data & Data Science @ AIMS Senegal"
     superpower  = "Turning messy data into meaningful stories"
-    currently   = "Exploring Explainable AI & LLMs 🤖"
-    fun_fact    = "I debug code AND solve Sudoku for fun 🧩"
+    currently   = "Exploring Explainable AI & LLMs "
+    fun_fact    = "I solve Sudoku for fun "
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build something amazing together 🚀")
@@ -27,13 +25,12 @@ class Angelah:
 
 ## What I'm Passionate About
 
-- 🔍 **Explainable AI & Model Interpretability** — because black boxes aren't good enough
-- 🧬 **Informed Machine Learning** — blending domain knowledge with data
-- 🗣️ **Multimodal AI & LLMs** — the frontier of what's possible
-- 📊 **Data Analysis** — finding the story hiding in the numbers
-- 🧮 **Neural Networks** — deep, deeper, deepest
+- **Explainable AI & Model Interpretability** — because black boxes aren't good enough
+- **Informed Machine Learning** — blending domain knowledge with data
+- **Multimodal AI & LLMs** — the frontier of what's possible
+- **Data Analysis** — finding the story hiding in the numbers
+- **Neural Networks** — deep, deeper, deepest
 
----
 
 ## My Tech Toolbox
 
@@ -62,9 +59,8 @@ class Angelah:
 
 </div>
 
----
 
-## 🎯 Currently Seeking
+## Currently Seeking
 
 <div align="center">
 
@@ -82,20 +78,17 @@ class Angelah:
 
 </div>
 
----
-
-## 🎮 Beyond the Code
+## Beyond the Code
 
 When I'm not training models or wrangling data, you'll find me...
 
-- 🧩 **Solving Sudoku** — yes, I do this for fun. Pattern recognition is a lifestyle.
-- 🏐 **Playing Volleyball** — teamwork, strategy, and a good spike never hurt anyone.
-- 🎵 **Listening to Music** — the ultimate background process for deep focus.
-- 📚 **Reading about AI research** — because the field moves faster than I sleep.
+- **Solving Sudoku** — yes, I do this for fun.
+- **Playing Volleyball** — teamwork, strategy, and a good spike never hurt anyone.
+- **Listening to Music** — the ultimate background process for deep focus.
+- **Reading about AI research** — because the field moves faster than I sleep.
 
----
 
-## 🌍 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
