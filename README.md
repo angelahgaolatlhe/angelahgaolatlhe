@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=header" width="100%"/>
 
 <h1 align="center" style="font-size: 3rem; font-weight: bold; margin-top: 10px;">
-  Hello there style="color:#6A11CB;"></span> 😊
+  Hello there 😊
 </h1>
 
 </div>
