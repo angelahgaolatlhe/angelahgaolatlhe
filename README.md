@@ -23,14 +23,23 @@ class Angelah:
         print("Thanks for stopping by! Let's build something amazing together")
 ```
 
-## What I'm Passionate About
+## Currently Seeking
 
-- **Explainable AI & Model Interpretability** — because black boxes aren't good enough
-- **Informed Machine Learning** — blending domain knowledge with data
-- **Multimodal AI & LLMs** — the frontier of what's possible
-- **Data Analysis** — finding the story hiding in the numbers
-- **Neural Networks** — deep, deeper, deepest
+<div align="center">
 
+```
+╔══════════════════════════════════════════════════════╗
+║  🟢  OPEN TO WORK & COLLABORATION                    ║
+║                                                      ║
+║  ✅  Data Science / AI & ML roles                    ║
+║  ✅  Research collaborations                         ║
+║  ✅  Open-source contributions                       ║
+║  ✅  Freelance projects                              ║
+║  ✅  Hackathons & competitions                       ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ## My Tech Toolbox
 
@@ -58,35 +67,6 @@ class Angelah:
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
-
-
-## Currently Seeking
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║  🟢  OPEN TO WORK & COLLABORATION                    ║
-║                                                      ║
-║  ✅  Data Science / ML roles                         ║
-║  ✅  Research collaborations                         ║
-║  ✅  Open-source contributions                       ║
-║  ✅  Freelance projects                              ║
-║  ✅  Hackathons & competitions                       ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
-## Beyond the Code
-
-When I'm not training models or wrangling data, you'll find me...
-
-- **Solving Sudoku** — yes, I do this for fun.
-- **Playing Volleyball** — teamwork, strategy, and a good spike never hurt anyone.
-- **Listening to Music** — the ultimate background process for deep focus.
-- **Reading about AI research** — because the field moves faster than I sleep.
-
 
 ## Let's Connect!
 
